@@ -1,0 +1,14 @@
+O:\Programování\C#\poleCisel\obj\Debug\net8.0\poleCisel.GeneratedMSBuildEditorConfig.editorconfig
+O:\Programování\C#\poleCisel\obj\Debug\net8.0\poleCisel.AssemblyInfoInputs.cache
+O:\Programování\C#\poleCisel\obj\Debug\net8.0\poleCisel.AssemblyInfo.cs
+O:\Programování\C#\poleCisel\obj\Debug\net8.0\poleCisel.csproj.CoreCompileInputs.cache
+O:\Programování\C#\poleCisel\bin\Debug\net8.0\poleCisel.exe
+O:\Programování\C#\poleCisel\bin\Debug\net8.0\poleCisel.deps.json
+O:\Programování\C#\poleCisel\bin\Debug\net8.0\poleCisel.runtimeconfig.json
+O:\Programování\C#\poleCisel\bin\Debug\net8.0\poleCisel.dll
+O:\Programování\C#\poleCisel\bin\Debug\net8.0\poleCisel.pdb
+O:\Programování\C#\poleCisel\obj\Debug\net8.0\poleCisel.dll
+O:\Programování\C#\poleCisel\obj\Debug\net8.0\refint\poleCisel.dll
+O:\Programování\C#\poleCisel\obj\Debug\net8.0\poleCisel.pdb
+O:\Programování\C#\poleCisel\obj\Debug\net8.0\poleCisel.genruntimeconfig.cache
+O:\Programování\C#\poleCisel\obj\Debug\net8.0\ref\poleCisel.dll
