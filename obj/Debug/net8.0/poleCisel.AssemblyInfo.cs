@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("poleCisel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1f4eb8a57c2946b8d61b07634c93f591c091caf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+611c3587d231ddfe90392ae1a23087ea23a9b87d")]
 [assembly: System.Reflection.AssemblyProductAttribute("poleCisel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("poleCisel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

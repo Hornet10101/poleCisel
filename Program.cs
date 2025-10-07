@@ -14,11 +14,16 @@ namespace poleCisel
             int[] sortedPole = Sort(pole);
             Console.WriteLine($"{max}");
             WriteList( sortedPole );
-            Console.WriteLine("Jake cislo chcete najit?");
-            int target = Convert.ToInt32(Console.ReadLine());
-            int search = BinarySearch(sortedPole, target);
-            Console.WriteLine($"{search}");
-            Console.WriteLine("hi");
+            while (true) {
+                Console.WriteLine("Jake cislo chcete najit? Napiste -1 pro ukonceni");
+                int target = Convert.ToInt32(Console.ReadLine());
+                if (target == -1)
+                {
+                    break;
+                }
+                int search = BinarySearch(sortedPole, target);
+                Console.WriteLine($"{search}");
+            }
             
         }
         public static int FindMax(int[] pole)
