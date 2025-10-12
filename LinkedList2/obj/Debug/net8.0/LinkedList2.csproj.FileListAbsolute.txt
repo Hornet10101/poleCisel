@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\LinkedList2\bin\Debug\net8.0\LinkedList2.exe
+C:\Programovani\cSharp\GitRepository\LinkedList2\bin\Debug\net8.0\LinkedList2.deps.json
+C:\Programovani\cSharp\GitRepository\LinkedList2\bin\Debug\net8.0\LinkedList2.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\LinkedList2\bin\Debug\net8.0\LinkedList2.dll
+C:\Programovani\cSharp\GitRepository\LinkedList2\bin\Debug\net8.0\LinkedList2.pdb
+C:\Programovani\cSharp\GitRepository\LinkedList2\obj\Debug\net8.0\LinkedList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\LinkedList2\obj\Debug\net8.0\LinkedList2.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\LinkedList2\obj\Debug\net8.0\LinkedList2.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\LinkedList2\obj\Debug\net8.0\LinkedList2.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\LinkedList2\obj\Debug\net8.0\LinkedList2.sourcelink.json
+C:\Programovani\cSharp\GitRepository\LinkedList2\obj\Debug\net8.0\LinkedList2.dll
+C:\Programovani\cSharp\GitRepository\LinkedList2\obj\Debug\net8.0\refint\LinkedList2.dll
+C:\Programovani\cSharp\GitRepository\LinkedList2\obj\Debug\net8.0\LinkedList2.pdb
+C:\Programovani\cSharp\GitRepository\LinkedList2\obj\Debug\net8.0\LinkedList2.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\LinkedList2\obj\Debug\net8.0\ref\LinkedList2.dll
