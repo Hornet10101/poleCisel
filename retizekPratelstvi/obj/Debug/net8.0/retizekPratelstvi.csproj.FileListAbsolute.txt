@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\bin\Debug\net8.0\retizekPratelstvi.exe
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\bin\Debug\net8.0\retizekPratelstvi.deps.json
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\bin\Debug\net8.0\retizekPratelstvi.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\bin\Debug\net8.0\retizekPratelstvi.dll
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\bin\Debug\net8.0\retizekPratelstvi.pdb
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\obj\Debug\net8.0\retizekPratelstvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\obj\Debug\net8.0\retizekPratelstvi.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\obj\Debug\net8.0\retizekPratelstvi.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\obj\Debug\net8.0\retizekPratelstvi.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\obj\Debug\net8.0\retizekPratelstvi.sourcelink.json
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\obj\Debug\net8.0\retizekPratelstvi.dll
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\obj\Debug\net8.0\refint\retizekPratelstvi.dll
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\obj\Debug\net8.0\retizekPratelstvi.pdb
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\obj\Debug\net8.0\retizekPratelstvi.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\retizekPratelstvi\obj\Debug\net8.0\ref\retizekPratelstvi.dll

@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\Test\bin\Debug\net8.0\Test.exe
+C:\Programovani\cSharp\GitRepository\Test\bin\Debug\net8.0\Test.deps.json
+C:\Programovani\cSharp\GitRepository\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\Test\bin\Debug\net8.0\Test.dll
+C:\Programovani\cSharp\GitRepository\Test\bin\Debug\net8.0\Test.pdb
+C:\Programovani\cSharp\GitRepository\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\Test\obj\Debug\net8.0\Test.sourcelink.json
+C:\Programovani\cSharp\GitRepository\Test\obj\Debug\net8.0\Test.dll
+C:\Programovani\cSharp\GitRepository\Test\obj\Debug\net8.0\refint\Test.dll
+C:\Programovani\cSharp\GitRepository\Test\obj\Debug\net8.0\Test.pdb
+C:\Programovani\cSharp\GitRepository\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\Test\obj\Debug\net8.0\ref\Test.dll
