@@ -45,11 +45,7 @@
             {
                 stav[i] = 0;
             }
-            //List<int> stav = new List<int>();
-            //for (int i = 0; i < maticeSize; i++)
-            //{
-            //    stav.Add(0);
-            //}
+
             List<int> predchudce = new List<int>();
             for (int i = 0; i < maticeSize; i++)
             {
@@ -61,51 +57,45 @@
             stav[start-1] = 1;
             int distance = 0;
             List<int> cesta = new List<int>();
-
+            bool found = false;
 
             while (otevreneVrcholy.Count > 0)
             {
-                //if (otevreneVrcholy.Peek() == maticeSize + 1)
-                //{
-                //    distance++;
-                //    otevreneVrcholy.Dequeue();
-                //    if (otevreneVrcholy.Count != 0)
-                //    {
-                //        otevreneVrcholy.Enqueue(maticeSize + 1);
-                //    }
-                //}
-                //else
+
+                int pointIndex = otevreneVrcholy.Peek() - 1;
+                for (int i = 0; i < maticeSize; i++)
                 {
-                    int pointIndex = otevreneVrcholy.Peek() - 1;
-                    for (int i = 0; i < maticeSize; i++)
+                    if (matice[pointIndex, i] == 1 && stav[i] == 0)
                     {
-                        if (matice[pointIndex, i] == 1 && stav[i] == 0)
-                        {
-                            otevreneVrcholy.Enqueue(i + 1);
-                            stav[i] = 1;
-                            predchudce[i] = otevreneVrcholy.Peek();
-                        }
+                        otevreneVrcholy.Enqueue(i + 1);
+                        stav[i] = 1;
+                        predchudce[i] = otevreneVrcholy.Peek();
                     }
-                    if (otevreneVrcholy.Peek() == target)
-                    {
-                        int predtim = target-1;
-                        while (predchudce[predtim] != start)
-                        {
-                            cesta.Add(predtim + 1);
-                            predtim = predchudce[predtim]-1;
-                            distance++;
-                        }
-                        for(int i = cesta.Count-1; i >= 0; i--)
-                        {
-                            Console.Write(cesta[i]);
-                        }
-                    }
-                    stav[pointIndex] = 2;
-                    otevreneVrcholy.Dequeue();
                 }
+                if (otevreneVrcholy.Peek() == target)
+                {
+                    int predtim = target;
+                    while (predtim != start)
+                    {
+                        cesta.Add(predtim);
+                        predtim = predchudce[predtim-1];
+                        distance++;
+                    }
+                    Console.Write(start);
+                    for(int i = cesta.Count-1; i >= 0; i--)
+                    {
+                        Console.Write(cesta[i]);
+                    }
+                    found = true;
+                }
+                stav[pointIndex] = 2;
+                otevreneVrcholy.Dequeue();
+
             }
-            Console.WriteLine(distance-1);
-            
+            if (found == false)
+            {
+                Console.WriteLine("neexistuje");
+            }
         }
     }
 }
