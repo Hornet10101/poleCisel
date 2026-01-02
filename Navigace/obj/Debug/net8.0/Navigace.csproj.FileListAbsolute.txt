@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\Navigace\bin\Debug\net8.0\Navigace.exe
+C:\Programovani\cSharp\GitRepository\Navigace\bin\Debug\net8.0\Navigace.deps.json
+C:\Programovani\cSharp\GitRepository\Navigace\bin\Debug\net8.0\Navigace.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\Navigace\bin\Debug\net8.0\Navigace.dll
+C:\Programovani\cSharp\GitRepository\Navigace\bin\Debug\net8.0\Navigace.pdb
+C:\Programovani\cSharp\GitRepository\Navigace\obj\Debug\net8.0\Navigace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\Navigace\obj\Debug\net8.0\Navigace.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\Navigace\obj\Debug\net8.0\Navigace.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\Navigace\obj\Debug\net8.0\Navigace.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\Navigace\obj\Debug\net8.0\Navigace.sourcelink.json
+C:\Programovani\cSharp\GitRepository\Navigace\obj\Debug\net8.0\Navigace.dll
+C:\Programovani\cSharp\GitRepository\Navigace\obj\Debug\net8.0\refint\Navigace.dll
+C:\Programovani\cSharp\GitRepository\Navigace\obj\Debug\net8.0\Navigace.pdb
+C:\Programovani\cSharp\GitRepository\Navigace\obj\Debug\net8.0\Navigace.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\Navigace\obj\Debug\net8.0\ref\Navigace.dll
