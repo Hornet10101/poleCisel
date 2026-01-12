@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\absolutniKino\obj\Debug\net8.0\absolutniKino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\absolutniKino\obj\Debug\net8.0\absolutniKino.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\absolutniKino\obj\Debug\net8.0\absolutniKino.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\absolutniKino\obj\Debug\net8.0\absolutniKino.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\absolutniKino\obj\Debug\net8.0\absolutniKino.sourcelink.json
+C:\Programovani\cSharp\GitRepository\absolutniKino\bin\Debug\net8.0\absolutniKino.exe
+C:\Programovani\cSharp\GitRepository\absolutniKino\bin\Debug\net8.0\absolutniKino.deps.json
+C:\Programovani\cSharp\GitRepository\absolutniKino\bin\Debug\net8.0\absolutniKino.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\absolutniKino\bin\Debug\net8.0\absolutniKino.dll
+C:\Programovani\cSharp\GitRepository\absolutniKino\bin\Debug\net8.0\absolutniKino.pdb
+C:\Programovani\cSharp\GitRepository\absolutniKino\obj\Debug\net8.0\absolutniKino.dll
+C:\Programovani\cSharp\GitRepository\absolutniKino\obj\Debug\net8.0\refint\absolutniKino.dll
+C:\Programovani\cSharp\GitRepository\absolutniKino\obj\Debug\net8.0\absolutniKino.pdb
+C:\Programovani\cSharp\GitRepository\absolutniKino\obj\Debug\net8.0\absolutniKino.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\absolutniKino\obj\Debug\net8.0\ref\absolutniKino.dll
