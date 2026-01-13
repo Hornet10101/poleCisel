@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("absolutniKino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fac67b8695d6fbfb328af78e03af8b8d6ccd48d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fadd4a36d9277d5b7cda474d24f68c7b270b581")]
 [assembly: System.Reflection.AssemblyProductAttribute("absolutniKino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("absolutniKino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

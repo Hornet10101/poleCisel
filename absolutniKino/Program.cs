@@ -15,7 +15,7 @@
             string[,] maticeSedadel = new string[PocetSedacek,PocetRad];
             List<int> zakoupeneRady = new List<int>(); 
             List <int> zakoupeneSedacky = new List <int>();
-            for (int i = 0; i < PocetRad; i++)
+            for (int i = 0; i < PocetRad; i++) //zaplneni salu prazdnymi misty
             {
                 for (int j = 0; j < PocetSedacek; j++)
                 {
@@ -23,30 +23,30 @@
                 }
             }
 
-            fillHall(maticeSedadel); //zaplni nahodna mista
+            FillHall(maticeSedadel); //zaplni nahodna mista
             while (true)
             {
-                int action = actionInterface();
+                int action = ActionInterface();
                 if(action == 1)
                 {
-                    zobrazitSal(maticeSedadel);
+                    ZobrazitSal(maticeSedadel);
                 }
                 else if(action == 2)
                 {
-                    udelatRezervaci(maticeSedadel, zakoupeneSedacky, zakoupeneRady);
+                    UdelatRezervaci(maticeSedadel, zakoupeneSedacky, zakoupeneRady);
                 }
                 else if(action == 3)
                 {
-                    zrusitRezervaci(maticeSedadel, zakoupeneSedacky, zakoupeneRady);
+                    ZrusitRezervaci(maticeSedadel, zakoupeneSedacky, zakoupeneRady);
                 }
                 else if(action == 4)
                 {
-                    showRezervace(zakoupeneSedacky, zakoupeneRady);
-                    backToMenu();
+                    ShowRezervace(zakoupeneSedacky, zakoupeneRady);
+                    BackToMenu();
                 }
                 else if(action == 5)
                 {
-                    zaplaceni(zakoupeneRady);
+                    Zaplaceni(zakoupeneRady);
                 }
                 else if (action == 6)
                 {
@@ -54,7 +54,7 @@
                 }
             }
         }
-        public static int actionInterface()
+        public static int ActionInterface()
         {
             Console.WriteLine("-----------------------------------");
             Console.WriteLine("Vítejte v našem kině! Vyberte akci:");
@@ -65,11 +65,11 @@
             Console.WriteLine("5 - zaplaceni");
             Console.WriteLine("6 - ukončit program");
             Console.WriteLine("");
-            int akce = loadNumber(1,6);
+            int akce = LoadNumber(1,6);
             Console.WriteLine("-----------------------------------");
             return akce;
         }
-        public static void zobrazitSal(string[,] maticeSedadel)
+        public static void ZobrazitSal(string[,] maticeSedadel)
         {
             Console.WriteLine("  _________  ");
             Console.WriteLine(@" /| | | | |\  ");
@@ -88,15 +88,15 @@
                 }
                 Console.WriteLine("");
             }
-            backToMenu();
+            BackToMenu();
         }
 
-        public static void udelatRezervaci(string[,] maticeSedadel, List<int> zakoupeneSedacky, List<int> zakoupeneRady)
+        public static void UdelatRezervaci(string[,] maticeSedadel, List<int> zakoupeneSedacky, List<int> zakoupeneRady)
         {
             while (true)
             {
-                int vybranaRada = getCisloRady("zarezervovat");
-                int vybranaSedacka = getCisloSedacky("zarezervovat");
+                int vybranaRada = GetCisloRady("zarezervovat");
+                int vybranaSedacka = GetCisloSedacky("zarezervovat");
                 if (maticeSedadel[vybranaSedacka - 1, vybranaRada - 1] == "□")
                 {
                     maticeSedadel[vybranaSedacka - 1, vybranaRada - 1] = "■";
@@ -110,22 +110,22 @@
                     Console.WriteLine("Misto neni volne!");
                 }
             }
-            backToMenu();
+            BackToMenu();
         }
-        public static void zrusitRezervaci(string[,] maticeSedadel, List<int> zakoupeneSedacky, List<int> zakoupeneRady)
+        public static void ZrusitRezervaci(string[,] maticeSedadel, List<int> zakoupeneSedacky, List<int> zakoupeneRady)
         {
-            showRezervace(zakoupeneSedacky, zakoupeneRady);
+            ShowRezervace(zakoupeneSedacky, zakoupeneRady);
             if (zakoupeneRady.Count == 0)
             {
-                backToMenu();
+                BackToMenu();
             }
             else
             {
-                int cisloRezervace = getCisloRezervace(zakoupeneRady);
+                int cisloRezervace = GetCisloRezervace(zakoupeneRady);
                 if (cisloRezervace == 0)
                 {
                     Console.WriteLine("OK!");
-                    backToMenu();
+                    BackToMenu();
                 }
                 else
                 {
@@ -133,12 +133,12 @@
                     zakoupeneSedacky.RemoveAt(cisloRezervace - 1);
                     zakoupeneRady.RemoveAt(cisloRezervace - 1);
                     Console.WriteLine("Rezervace zrusena!");
-                    backToMenu();
+                    BackToMenu();
                 }
             }
         }
 
-        public static void zaplaceni(List<int> zakoupeneRady)
+        public static void Zaplaceni(List<int> zakoupeneRady)
         {
             int cena = 0;
             int pocetVIPPriplatku = 0;
@@ -159,9 +159,9 @@
             Console.WriteLine($"{pocetVIPPriplatku}*250 = {pocetVIPPriplatku * 250}");
             Console.WriteLine($"Celkem: {cena}");
             Console.WriteLine("Dekujeme za nakup!");
-            backToMenu();
+            BackToMenu();
         }
-        public static void fillHall(string[,] maticeSedacek)
+        public static void FillHall(string[,] maticeSedacek)
         {
             Random random = new Random();
             int num_people = random.Next(2,40);
@@ -173,7 +173,7 @@
                 maticeSedacek[sedacka, rada] = "■";
             }
         }
-        public static void showRezervace(List<int> zakoupeneSedacky, List<int> zakoupeneRady)
+        public static void ShowRezervace(List<int> zakoupeneSedacky, List<int> zakoupeneRady)
         {
             if (zakoupeneRady.Count == 0)
             {
@@ -188,15 +188,15 @@
                 }
             }
         }
-        public static int getCisloRezervace(List<int> zakoupeneRady)
+        public static int GetCisloRezervace(List<int> zakoupeneRady)
         {
             Console.WriteLine("Kterou rezervaci si prejete zrusit?");
             Console.WriteLine("VAROVANI: Penize za jiz zaplacene rezervace se nevraci. Pokud jste zmenili nazor, napiste cislo 0");
-            int cisloRezervace = loadNumber(1,zakoupeneRady.Count);
+            int cisloRezervace = LoadNumber(1,zakoupeneRady.Count);
             return cisloRezervace;
         }
 
-        public static void backToMenu()
+        public static void BackToMenu()
         {
             Console.WriteLine("Stisknete Enter pro vraceni do menu");
             var backToMenu = Console.ReadKey();
@@ -205,30 +205,30 @@
                 backToMenu = Console.ReadKey();
             }
         }
-        public static int getCisloRady(string akce)
+        public static int GetCisloRady(string akce)
         {
             Console.WriteLine($"Kterou radu chcete {akce}? 1-8");
-            int vybranaRada = loadNumber(1, 8);
+            int vybranaRada = LoadNumber(1, 8);
             return vybranaRada;
         }
-        public static int getCisloSedacky(string akce)
+        public static int GetCisloSedacky(string akce)
         {
             Console.WriteLine($"Kterou sedacku chcete {akce}? 1-10");
-            int vybranaSedacka = loadNumber(1, 10);
+            int vybranaSedacka = LoadNumber(1, 10);
             return vybranaSedacka;
         }
-        public static int loadNumber(int min, int max)
+        public static int LoadNumber(int min, int max)
         {
             int num;
             if (!int.TryParse(Console.ReadLine(), out num))
             {
                 Console.WriteLine("Neplatny vstup");
-                num = loadNumber(min, max);
+                num = LoadNumber(min, max);
             }
             if (num < min || num > max)
             {
                 Console.WriteLine("Neplatny vstup");
-                num = loadNumber(min, max);
+                num = LoadNumber(min, max);
             }
             return num;
         }
