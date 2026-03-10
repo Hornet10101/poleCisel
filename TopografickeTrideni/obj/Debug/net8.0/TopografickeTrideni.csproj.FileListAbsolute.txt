@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\bin\Debug\net8.0\TopografickeTrideni.exe
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\bin\Debug\net8.0\TopografickeTrideni.deps.json
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\bin\Debug\net8.0\TopografickeTrideni.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\bin\Debug\net8.0\TopografickeTrideni.dll
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\bin\Debug\net8.0\TopografickeTrideni.pdb
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\obj\Debug\net8.0\TopografickeTrideni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\obj\Debug\net8.0\TopografickeTrideni.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\obj\Debug\net8.0\TopografickeTrideni.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\obj\Debug\net8.0\TopografickeTrideni.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\obj\Debug\net8.0\TopografickeTrideni.sourcelink.json
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\obj\Debug\net8.0\TopografickeTrideni.dll
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\obj\Debug\net8.0\refint\TopografickeTrideni.dll
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\obj\Debug\net8.0\TopografickeTrideni.pdb
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\obj\Debug\net8.0\TopografickeTrideni.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\TopografickeTrideni\obj\Debug\net8.0\ref\TopografickeTrideni.dll

@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\binarniStrom\bin\Debug\net8.0\binarniStrom.exe
+C:\Programovani\cSharp\GitRepository\binarniStrom\bin\Debug\net8.0\binarniStrom.deps.json
+C:\Programovani\cSharp\GitRepository\binarniStrom\bin\Debug\net8.0\binarniStrom.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\binarniStrom\bin\Debug\net8.0\binarniStrom.dll
+C:\Programovani\cSharp\GitRepository\binarniStrom\bin\Debug\net8.0\binarniStrom.pdb
+C:\Programovani\cSharp\GitRepository\binarniStrom\obj\Debug\net8.0\binarniStrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\binarniStrom\obj\Debug\net8.0\binarniStrom.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\binarniStrom\obj\Debug\net8.0\binarniStrom.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\binarniStrom\obj\Debug\net8.0\binarniStrom.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\binarniStrom\obj\Debug\net8.0\binarniStrom.sourcelink.json
+C:\Programovani\cSharp\GitRepository\binarniStrom\obj\Debug\net8.0\binarniStrom.dll
+C:\Programovani\cSharp\GitRepository\binarniStrom\obj\Debug\net8.0\refint\binarniStrom.dll
+C:\Programovani\cSharp\GitRepository\binarniStrom\obj\Debug\net8.0\binarniStrom.pdb
+C:\Programovani\cSharp\GitRepository\binarniStrom\obj\Debug\net8.0\binarniStrom.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\binarniStrom\obj\Debug\net8.0\ref\binarniStrom.dll
