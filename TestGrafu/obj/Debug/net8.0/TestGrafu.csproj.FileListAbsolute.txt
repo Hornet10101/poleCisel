@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\TestGrafu\bin\Debug\net8.0\TestGrafu.exe
+C:\Programovani\cSharp\GitRepository\TestGrafu\bin\Debug\net8.0\TestGrafu.deps.json
+C:\Programovani\cSharp\GitRepository\TestGrafu\bin\Debug\net8.0\TestGrafu.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\TestGrafu\bin\Debug\net8.0\TestGrafu.dll
+C:\Programovani\cSharp\GitRepository\TestGrafu\bin\Debug\net8.0\TestGrafu.pdb
+C:\Programovani\cSharp\GitRepository\TestGrafu\obj\Debug\net8.0\TestGrafu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\TestGrafu\obj\Debug\net8.0\TestGrafu.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\TestGrafu\obj\Debug\net8.0\TestGrafu.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\TestGrafu\obj\Debug\net8.0\TestGrafu.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\TestGrafu\obj\Debug\net8.0\TestGrafu.sourcelink.json
+C:\Programovani\cSharp\GitRepository\TestGrafu\obj\Debug\net8.0\TestGrafu.dll
+C:\Programovani\cSharp\GitRepository\TestGrafu\obj\Debug\net8.0\refint\TestGrafu.dll
+C:\Programovani\cSharp\GitRepository\TestGrafu\obj\Debug\net8.0\TestGrafu.pdb
+C:\Programovani\cSharp\GitRepository\TestGrafu\obj\Debug\net8.0\TestGrafu.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\TestGrafu\obj\Debug\net8.0\ref\TestGrafu.dll
