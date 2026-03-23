@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P1XxxKhGWZQ=",
+  "success": true,
+  "projectFilePath": "C:\\Programovani\\cSharp\\GitRepository\\Mergesort\\Mergesort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\srsen\\.nuget\\packages\\fluentassertions\\8.9.0\\fluentassertions.8.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
