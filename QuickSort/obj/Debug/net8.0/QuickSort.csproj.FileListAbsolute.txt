@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\QuickSort\bin\Debug\net8.0\QuickSort.exe
+C:\Programovani\cSharp\GitRepository\QuickSort\bin\Debug\net8.0\QuickSort.deps.json
+C:\Programovani\cSharp\GitRepository\QuickSort\bin\Debug\net8.0\QuickSort.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\QuickSort\bin\Debug\net8.0\QuickSort.dll
+C:\Programovani\cSharp\GitRepository\QuickSort\bin\Debug\net8.0\QuickSort.pdb
+C:\Programovani\cSharp\GitRepository\QuickSort\obj\Debug\net8.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\QuickSort\obj\Debug\net8.0\QuickSort.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\QuickSort\obj\Debug\net8.0\QuickSort.sourcelink.json
+C:\Programovani\cSharp\GitRepository\QuickSort\obj\Debug\net8.0\QuickSort.dll
+C:\Programovani\cSharp\GitRepository\QuickSort\obj\Debug\net8.0\refint\QuickSort.dll
+C:\Programovani\cSharp\GitRepository\QuickSort\obj\Debug\net8.0\QuickSort.pdb
+C:\Programovani\cSharp\GitRepository\QuickSort\obj\Debug\net8.0\QuickSort.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\QuickSort\obj\Debug\net8.0\ref\QuickSort.dll
