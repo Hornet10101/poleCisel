@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\BogoSort\bin\Debug\net8.0\BogoSort.exe
+C:\Programovani\cSharp\GitRepository\BogoSort\bin\Debug\net8.0\BogoSort.deps.json
+C:\Programovani\cSharp\GitRepository\BogoSort\bin\Debug\net8.0\BogoSort.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\BogoSort\bin\Debug\net8.0\BogoSort.dll
+C:\Programovani\cSharp\GitRepository\BogoSort\bin\Debug\net8.0\BogoSort.pdb
+C:\Programovani\cSharp\GitRepository\BogoSort\obj\Debug\net8.0\BogoSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\BogoSort\obj\Debug\net8.0\BogoSort.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\BogoSort\obj\Debug\net8.0\BogoSort.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\BogoSort\obj\Debug\net8.0\BogoSort.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\BogoSort\obj\Debug\net8.0\BogoSort.sourcelink.json
+C:\Programovani\cSharp\GitRepository\BogoSort\obj\Debug\net8.0\BogoSort.dll
+C:\Programovani\cSharp\GitRepository\BogoSort\obj\Debug\net8.0\refint\BogoSort.dll
+C:\Programovani\cSharp\GitRepository\BogoSort\obj\Debug\net8.0\BogoSort.pdb
+C:\Programovani\cSharp\GitRepository\BogoSort\obj\Debug\net8.0\BogoSort.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\BogoSort\obj\Debug\net8.0\ref\BogoSort.dll
