@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\bin\Debug\net8.0\aritmetickeVyrazy.exe
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\bin\Debug\net8.0\aritmetickeVyrazy.deps.json
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\bin\Debug\net8.0\aritmetickeVyrazy.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\bin\Debug\net8.0\aritmetickeVyrazy.dll
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\bin\Debug\net8.0\aritmetickeVyrazy.pdb
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\obj\Debug\net8.0\aritmetickeVyrazy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\obj\Debug\net8.0\aritmetickeVyrazy.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\obj\Debug\net8.0\aritmetickeVyrazy.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\obj\Debug\net8.0\aritmetickeVyrazy.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\obj\Debug\net8.0\aritmetickeVyrazy.sourcelink.json
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\obj\Debug\net8.0\aritmetickeVyrazy.dll
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\obj\Debug\net8.0\refint\aritmetickeVyrazy.dll
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\obj\Debug\net8.0\aritmetickeVyrazy.pdb
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\obj\Debug\net8.0\aritmetickeVyrazy.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\aritmetickeVyrazy\obj\Debug\net8.0\ref\aritmetickeVyrazy.dll

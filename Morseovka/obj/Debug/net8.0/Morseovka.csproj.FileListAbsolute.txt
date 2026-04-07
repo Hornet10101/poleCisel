@@ -1,0 +1,15 @@
+C:\Programovani\cSharp\GitRepository\Morseovka\bin\Debug\net8.0\Morseovka.exe
+C:\Programovani\cSharp\GitRepository\Morseovka\bin\Debug\net8.0\Morseovka.deps.json
+C:\Programovani\cSharp\GitRepository\Morseovka\bin\Debug\net8.0\Morseovka.runtimeconfig.json
+C:\Programovani\cSharp\GitRepository\Morseovka\bin\Debug\net8.0\Morseovka.dll
+C:\Programovani\cSharp\GitRepository\Morseovka\bin\Debug\net8.0\Morseovka.pdb
+C:\Programovani\cSharp\GitRepository\Morseovka\obj\Debug\net8.0\Morseovka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\cSharp\GitRepository\Morseovka\obj\Debug\net8.0\Morseovka.AssemblyInfoInputs.cache
+C:\Programovani\cSharp\GitRepository\Morseovka\obj\Debug\net8.0\Morseovka.AssemblyInfo.cs
+C:\Programovani\cSharp\GitRepository\Morseovka\obj\Debug\net8.0\Morseovka.csproj.CoreCompileInputs.cache
+C:\Programovani\cSharp\GitRepository\Morseovka\obj\Debug\net8.0\Morseovka.sourcelink.json
+C:\Programovani\cSharp\GitRepository\Morseovka\obj\Debug\net8.0\Morseovka.dll
+C:\Programovani\cSharp\GitRepository\Morseovka\obj\Debug\net8.0\refint\Morseovka.dll
+C:\Programovani\cSharp\GitRepository\Morseovka\obj\Debug\net8.0\Morseovka.pdb
+C:\Programovani\cSharp\GitRepository\Morseovka\obj\Debug\net8.0\Morseovka.genruntimeconfig.cache
+C:\Programovani\cSharp\GitRepository\Morseovka\obj\Debug\net8.0\ref\Morseovka.dll
